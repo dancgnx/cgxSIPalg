@@ -23,7 +23,7 @@ cgxSIPalg.py looks for the following for AUTH, in this order of precedence:
 
 
 Example of a run:
-
+```
 davids-MacBook-Pro-3:cgxSIPalg danshechter$ ./cgxSIPalg.py  --all --enable
 INFO:cgxSIPalg:ION-VY- at Site Vineyard is being configured
 INFO:cgxSIPalg:-- already have algconfig
@@ -89,3 +89,4 @@ INFO:cgxSIPalg:ION-Test- at Site Test Site is being configured
 INFO:cgxSIPalg:-- creating algconfig name space
 INFO:cgxSIPalg:-- SIP alg not found. adding sip rule
 INFO:cgxSIPalg:-- updating alg entry
+```
