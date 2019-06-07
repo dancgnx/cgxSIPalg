@@ -9,6 +9,9 @@ Instructions:
 * Create a csv file with the example at devicelist.csv
 * run the script using: python3 cgxSIPalg --all --enable
 
+
+Notice: only -all is implemented at the moment
+
 cgxSIPalg.py looks for the following for AUTH, in this order of precedence:
 
 * --email or --password options on the command line.
